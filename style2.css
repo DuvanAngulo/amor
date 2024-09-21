@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(212, 79, 123);
+}
+
+.foto{
+    width: 300px;
+    padding-left: 300px;
+    padding-top: 80px;
+}
+.mensaje{
+
+    width: 400px;
+    padding: 50px;
+    padding-left: 650px;
+    margin-top: -450px;
+    
+}
+
